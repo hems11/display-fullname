@@ -1,0 +1,37 @@
+
+.container{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid gray;
+    height: 50vh;
+    width: 25vw;
+    align-self: center;
+    font-family:cursive;
+    background-color: beige;
+    
+}
+
+.heading{
+    color: black;
+}
+
+.form-control{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button{
+    background-color:black;
+    color: white;
+    font-family: cursive;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: fit-content;
+    padding: 10px 20px 10px 20px;
+    margin-top: 10px;
+}
+
+h2 {
+    color: black;
+}
